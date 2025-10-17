@@ -62,7 +62,9 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematic of 2-Bit Multiplier:
 
-![WhatsApp Image 2025-10-17 at 17 51 36_3ac23c19](https://github.com/user-attachments/assets/842a8782-e3f2-45b1-a03c-65ca9f843df1)
+
+<img width="1920" height="1080" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/9c69e002-bdeb-43e6-a293-90201bc8286a" />
+
 
 
 ## Output
